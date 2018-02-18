@@ -18,6 +18,6 @@ class String
     x = self.split(/a([.?!]+[" "])/)
 self
     x
-    x.count
+    x.size
   end
 end
